@@ -1,4 +1,4 @@
 # apanacollege-demo
 this is a demo
 <br>
-author-kishalay ghosh
+author-kishalay ghosh(tecb)
